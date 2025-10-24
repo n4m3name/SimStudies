@@ -1,4 +1,4 @@
-# Simulation Studies for $eJAB$
+# Simulation Studies for eJAB
 
 Hi guys,
 
