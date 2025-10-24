@@ -1,0 +1,47 @@
+# --- R & renv ---
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+renv/library/
+renv/staging/
+
+# --- R Markdown / knitr / Quarto caches & artifacts ---
+*.utf8.md
+*.knit.md
+*_cache/
+cache/
+*_files/
+.Rproj.user/
+.quarto/
+_freeze/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+.jupyter/
+
+# --- Python (if you mix R/Python) ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+
+# --- VS Code / RStudio project files ---
+.vscode/
+# (Keep your .Rproj file if you use one)
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+
+# --- Data/outputs ---
+data/raw/
+data/tmp/
+outputs/
+
+
+.bin/
