@@ -44,7 +44,7 @@ data/tmp/
 outputs/
 
 
-.bin/
+bin/
 Talks/
 General.ipynb
 prev/
